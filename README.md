@@ -34,7 +34,7 @@ The students edit this section to add their names, Uniandes emails, and specify 
 
 1. Santiago ALVAREZ, s.alvarez1123@unaidnes.edu.co, 202321575.
 1. Juan Felipe ROSERO, jf.rosero@uniandes.edu.co, 202321912.
-1. Student No. 3 Name, Student No. 3 Uniandes Email, Student No. 3 owned functionality.
+1. Nicolas Nassar, n.nassar@uniandes.edu.co, 202310705.
 
 [Back to top](#sample-mvc)
 
