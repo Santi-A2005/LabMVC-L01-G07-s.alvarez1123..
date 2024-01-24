@@ -32,7 +32,7 @@ This repository is part of the data structure and algorithms (#EDA) teaching fra
 
 The students edit this section to add their names, Uniandes emails, and specify which project functionality of the project they will implement.
 
-1. Santiago ALVAREZ, s.alvarez1123@unaidnes.edu.co, 202321575.
+1. Santiago ALVAREZ, s.alvarez1123@uniadnes.edu.co, 202321575.
 1. Juan Felipe ROSERO, jf.rosero@uniandes.edu.co, 202321912.
 1. Nicolas Nassar, n.nassar@uniandes.edu.co, 202310705.
 
