@@ -87,8 +87,8 @@ def loadBooksTags(control, filename):
     """
     # TODO: Mods Lab 1, integrar vista y modelo
     catalog1 = control.get("model")
-    BandTfile = os.path.join(cf.data_dir.filename)
-    catalog2 = model.addBookTags(catalog1, BandTfile )
+    booksfile = os.path.join(cf.data_dir.filename)
+    catalog2 = model.addBookTags(catalog1, booksfile )
     if model.emptyBookTags(catalog2): 
         return None
     else: 
