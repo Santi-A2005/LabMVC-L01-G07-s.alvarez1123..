@@ -86,10 +86,10 @@ def loadBooksTags(control, filename):
     de tags. Siga el mismo procedimiento que en la carga de libros.
     """
     # TODO: Mods Lab 1, integrar vista y modelo
-    catalog1 = control.get("model")
+    catalog = control.get("model")
     booksfile = os.path.join(cf.data_dir.filename)
-    catalog2 = model.addBookTags(catalog1, booksfile )
-    if model.emptyBookTags(catalog2): 
+    catalog = model.addBookTags(catalog, booksfile )
+    if model.emptyBookTags(catalog): 
         return None
     else: 
-        return model.bookTagSize(catalog2)
+        return model.bookTagSize(catalog)
